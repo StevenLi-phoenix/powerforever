@@ -1,2 +1,3 @@
 iter.csv
-*.log
+battery.log
+differenceSolarConsume.log
