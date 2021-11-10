@@ -341,11 +341,6 @@ author: 李树雨<br>time: 2021.11.7
 |____README.md
 |____loadFromTrainSet.csv
 |____dailyElectricEstimate.ipynb
-|____gsod
-| |____ish-history.txt
-| |____.DS_Store
-| |____GSOD-IMPROVEMENTS.TXT
-| |____gsod_2020
 
 
 ## 一个写好的类
