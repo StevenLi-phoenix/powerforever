@@ -91909,3 +91909,4851 @@
 
 13:20:44	[info]	No avaliable energy on day:318 hour:7636
 
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:318 hour:7637
+
+13:31:30	[info]	23.36567277899121, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:318 hour:7638
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	185.570850476626, 2151.2023615630274, 6716.297325600755, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:319 hour:7673
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:319 hour:7678
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:319 hour:7679
+
+13:31:30	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity10000_PRR_2000_95.png
+
+13:31:30	[info]	173.3800646788914, 2151.2023615630274, 13000, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:0 hour:17
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	209.2751561944431, 2151.2023615630274, 13000, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:102 hour:2465
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	167.62330471885005, 2151.2023615630274, 12838.65430883424, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:135 hour:3257
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:166 hour:4007
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4008
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4009
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4010
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4011
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4012
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4013
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4014
+
+13:31:30	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4015
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5070
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5071
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	225.86817019691512, 2151.2023615630274, 13000, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:228 hour:5489
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	201.82523154027206, 2151.2023615630274, 13000, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:248 hour:5969
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	77.54694299114477, 2151.2023615630274, 12277.793503903744, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:295 hour:7097
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	185.570850476626, 2151.2023615630274, 11716.297325600755, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:319 hour:7673
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity15000_PRR_2000_9.png
+
+13:31:30	[info]	173.3800646788914, 2151.2023615630274, 8000, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:0 hour:17
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:1 hour:24
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:1 hour:25
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:1 hour:26
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:1 hour:27
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:1 hour:28
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:1 hour:29
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:1 hour:30
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:2 hour:53
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:2 hour:54
+
+13:31:30	[info]	708.7587409627337, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:2 hour:55
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:3 hour:78
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	101.251248708962, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:3 hour:79
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:8 hour:196
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:8 hour:197
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:8 hour:198
+
+13:31:30	[info]	519.1242952201962, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:8 hour:199
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:12 hour:291
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:12 hour:292
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:12 hour:293
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:12 hour:294
+
+13:31:30	[info]	207.92062443913932, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:12 hour:295
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:14 hour:340
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:14 hour:341
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:14 hour:342
+
+13:31:30	[info]	473.0702155398657, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:14 hour:343
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:29 hour:698
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:29 hour:699
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:29 hour:700
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:29 hour:701
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:29 hour:702
+
+13:31:30	[info]	446.65684631144086, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:29 hour:703
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:31 hour:750
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	326.78078596705126, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:31 hour:751
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	474.08611435634356, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:36 hour:871
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:37 hour:890
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:37 hour:891
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:37 hour:892
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:37 hour:893
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:37 hour:894
+
+13:31:30	[info]	399.58686781463246, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:37 hour:895
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:38 hour:916
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:38 hour:917
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:38 hour:918
+
+13:31:30	[info]	273.9540475102014, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:38 hour:919
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:52 hour:1252
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:52 hour:1253
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:52 hour:1254
+
+13:31:30	[info]	326.44215302822516, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:52 hour:1255
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	493.72682480824926, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:57 hour:1375
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:61 hour:1470
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	512.6902693825031, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:61 hour:1471
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:72 hour:1732
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:72 hour:1733
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:72 hour:1734
+
+13:31:30	[info]	657.9638001388397, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:72 hour:1735
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	225.52953725808922, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:74 hour:1783
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	390.78241140515746, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:77 hour:1855
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	778.8557592997063, 2060.3382042731814, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:78 hour:1883
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:79 hour:1896
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:79 hour:1897
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:79 hour:1898
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:79 hour:1899
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:79 hour:1900
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:79 hour:1901
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:79 hour:1902
+
+13:31:30	[info]	566.8715395946564, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:79 hour:1903
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:80 hour:1923
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:80 hour:1924
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:80 hour:1925
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:80 hour:1926
+
+13:31:30	[info]	240.0907536276055, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:80 hour:1927
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:83 hour:1998
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	595.9939723336893, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:83 hour:1999
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:84 hour:2018
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:84 hour:2019
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:84 hour:2020
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:84 hour:2021
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:84 hour:2022
+
+13:31:30	[info]	723.3199573322499, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:84 hour:2023
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:85 hour:2046
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	706.3883103909518, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:85 hour:2047
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:88 hour:2118
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	470.36115202925805, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:88 hour:2119
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	91.43089348300911, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:93 hour:2239
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	105.31484397487348, 667.5145870684872, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:93 hour:2240
+
+13:31:30	[info]	369.10990332029627, 748.0159877925421, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:93 hour:2241
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	257.0224005689035, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:99 hour:2383
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:101 hour:2429
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	No avaliable energy on day:128 hour:3078
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:129 hour:3098
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:129 hour:3099
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:129 hour:3100
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:129 hour:3101
+
+13:31:30	[info]	1.6931646941297982, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:129 hour:3102
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	1.0158988164778786, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:130 hour:3126
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:131 hour:3150
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	167.62330471885005, 2151.2023615630274, 7838.6543088342405, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:135 hour:3257
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3264
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3265
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3266
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3267
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3268
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3269
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3270
+
+13:31:30	[info]	166.26877296354624, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3271
+
+13:31:30	[info]	650.8525084234946, 667.5145870684872, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:136 hour:3272
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:138 hour:3313
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:138 hour:3314
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:138 hour:3315
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:138 hour:3316
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:138 hour:3317
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:138 hour:3318
+
+13:31:30	[info]	63.66299249928041, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:138 hour:3319
+
+13:31:30	[info]	600.0575675996005, 667.5145870684872, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:138 hour:3320
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:139 hour:3341
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:139 hour:3342
+
+13:31:30	[info]	265.4882240395525, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:139 hour:3343
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	1.0158988164778786, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:145 hour:3486
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:148 hour:3556
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:148 hour:3557
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:148 hour:3558
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:149 hour:3581
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:149 hour:3582
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:151 hour:3626
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:151 hour:3627
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:151 hour:3628
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:151 hour:3629
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:151 hour:3630
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:101 hour:2430
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	209.2751561944431, 2151.2023615630274, 8000, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:102 hour:2465
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:103 hour:2472
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:103 hour:2473
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:103 hour:2474
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:103 hour:2475
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:103 hour:2476
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:103 hour:2477
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:103 hour:2478
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	148.65986014459634, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:105 hour:2527
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	602.7666311102083, 667.5145870684872, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:105 hour:2528
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:106 hour:2550
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	568.5647042887864, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:106 hour:2551
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:107 hour:2571
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:107 hour:2572
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:107 hour:2573
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:107 hour:2574
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:109 hour:2622
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	423.62980647127546, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:109 hour:2623
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:111 hour:2669
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	14.561216369516261, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:111 hour:2670
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:112 hour:2688
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:112 hour:2689
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:112 hour:2690
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:112 hour:2691
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:112 hour:2692
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:112 hour:2693
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:112 hour:2694
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:114 hour:2738
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:114 hour:2739
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:114 hour:2740
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:114 hour:2741
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:114 hour:2742
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:118 hour:2835
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:118 hour:2836
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:118 hour:2837
+
+13:31:30	[info]	26.07473628959889, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:118 hour:2838
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:128 hour:3076
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:128 hour:3077
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	633.5822285433707, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:151 hour:3631
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:155 hour:3723
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:155 hour:3724
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:155 hour:3725
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:155 hour:3726
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	356.2418516449096, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:158 hour:3799
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:158 hour:3814
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:158 hour:3815
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:159 hour:3816
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:159 hour:3817
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:159 hour:3818
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:159 hour:3819
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:159 hour:3820
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:159 hour:3821
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:159 hour:3822
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:164 hour:3941
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:164 hour:3942
+
+13:31:30	[info]	712.4837032898191, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:164 hour:3943
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	120.21469328321574, 743.6792970262437, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:166 hour:3994
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	329.15121653883295, 2060.3382042731814, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:166 hour:3995
+
+13:31:30	[info]	596.3326052725148, 807.054947650221, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:166 hour:3996
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 1355.3755335449828, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:166 hour:4005
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:166 hour:4006
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:166 hour:4007
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4008
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4009
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4010
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4011
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4012
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4013
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4014
+
+13:31:30	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:167 hour:4015
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:170 hour:4086
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:173 hour:4175
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:174 hour:4176
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:174 hour:4177
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:174 hour:4178
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:174 hour:4179
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:174 hour:4180
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:174 hour:4181
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:174 hour:4182
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	51.810839640371825, 748.0159877925421, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:175 hour:4209
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 1355.3755335449828, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:182 hour:4389
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:182 hour:4390
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:182 hour:4391
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:183 hour:4392
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:183 hour:4393
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:183 hour:4394
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:183 hour:4395
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:183 hour:4396
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:183 hour:4397
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:183 hour:4398
+
+13:31:30	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:183 hour:4399
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:184 hour:4418
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:184 hour:4419
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:184 hour:4420
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:184 hour:4421
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:184 hour:4422
+
+13:31:30	[info]	157.46431655407127, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:184 hour:4423
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:188 hour:4514
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:188 hour:4515
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:188 hour:4516
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:188 hour:4517
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:188 hour:4518
+
+13:31:30	[info]	58.92213135571697, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:188 hour:4519
+
+13:31:30	[info]	450.04317569970056, 667.5145870684872, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:188 hour:4520
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:190 hour:4583
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:191 hour:4584
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:191 hour:4585
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:191 hour:4586
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:191 hour:4587
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:191 hour:4588
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:191 hour:4589
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:191 hour:4590
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:199 hour:4781
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:199 hour:4782
+
+13:31:30	[info]	344.0510658471751, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:199 hour:4783
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:201 hour:4825
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:201 hour:4826
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:201 hour:4827
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:201 hour:4828
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:201 hour:4829
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:201 hour:4830
+
+13:31:30	[info]	493.7268248082493, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:201 hour:4831
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	153.06208834933383, 667.5145870684872, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:202 hour:4856
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	183.53905284367022, 667.5145870684872, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:210 hour:5048
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	16.931646941297977, 748.0159877925421, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:210 hour:5049
+
+13:31:30	[info]	77.88557592997076, 743.6792970262437, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:210 hour:5050
+
+13:31:30	[info]	919.7270618513066, 2060.3382042731814, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:210 hour:5051
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:210 hour:5062
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:210 hour:5063
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5064
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5065
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5066
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5067
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5068
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5069
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5070
+
+13:31:30	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:211 hour:5071
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:213 hour:5116
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:213 hour:5117
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:213 hour:5118
+
+13:31:30	[info]	226.54543607456708, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:213 hour:5119
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:223 hour:5358
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	471.715683784562, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:223 hour:5359
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	225.86817019691512, 2151.2023615630274, 8000, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:228 hour:5489
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:229 hour:5496
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:229 hour:5497
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:229 hour:5498
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:229 hour:5499
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:229 hour:5500
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:229 hour:5501
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:229 hour:5502
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:234 hour:5621
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:234 hour:5622
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:235 hour:5645
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:235 hour:5646
+
+13:31:30	[info]	549.2626267757068, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:235 hour:5647
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	112.42613569021864, 667.5145870684872, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:247 hour:5936
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	598.7030358442968, 748.0159877925421, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:247 hour:5937
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	201.82523154027206, 2151.2023615630274, 8000, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:248 hour:5969
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:249 hour:5976
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:249 hour:5977
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:249 hour:5978
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:249 hour:5979
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:249 hour:5980
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:249 hour:5981
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:249 hour:5982
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	2.709063510607677, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:260 hour:6246
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:264 hour:6358
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:264 hour:6359
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:265 hour:6360
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:265 hour:6361
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:265 hour:6362
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:265 hour:6363
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:265 hour:6364
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:265 hour:6365
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:265 hour:6366
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:266 hour:6384
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:266 hour:6385
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:266 hour:6386
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:266 hour:6387
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:266 hour:6388
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:266 hour:6389
+
+13:31:30	[info]	1.6931646941297982, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:266 hour:6390
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:267 hour:6413
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:267 hour:6414
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:270 hour:6482
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:270 hour:6483
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:270 hour:6484
+
+13:31:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:270 hour:6485
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:270 hour:6486
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	2.031797632955757, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:284 hour:6822
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	690.4725622661321, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:284 hour:6823
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	1.6931646941297982, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:292 hour:7014
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:294 hour:7062
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	395.86190548754695, 724.7998015125778, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:294 hour:7063
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	77.54694299114477, 2151.2023615630274, 7277.793503903744, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:295 hour:7097
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	count_reset cause pull is zero
+
+13:31:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:295 hour:7102
+
+13:31:30	[info]	count_increase, set status to false
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:295 hour:7103
+
+13:31:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:296 hour:7104
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:296 hour:7105
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:296 hour:7106
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:296 hour:7107
+
+13:31:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:31:30	[info]	No avaliable energy on day:296 hour:7108
+
+13:32:14	[info]	No avaliable energy on day:8 hour:196
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:8 hour:197
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:8 hour:198
+
+13:32:14	[info]	519.1242952201962, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:8 hour:199
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:12 hour:291
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:12 hour:292
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:12 hour:293
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:12 hour:294
+
+13:32:14	[info]	207.92062443913932, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:12 hour:295
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:14 hour:340
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:14 hour:341
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:14 hour:342
+
+13:32:14	[info]	473.0702155398657, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:14 hour:343
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:29 hour:698
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:29 hour:699
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:29 hour:700
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:29 hour:701
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:29 hour:702
+
+13:32:14	[info]	446.65684631144086, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:29 hour:703
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:31 hour:750
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	326.78078596705126, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:31 hour:751
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	474.08611435634356, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:36 hour:871
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:37 hour:890
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:37 hour:891
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:37 hour:892
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:37 hour:893
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:37 hour:894
+
+13:32:14	[info]	399.58686781463246, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:37 hour:895
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:38 hour:916
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:38 hour:917
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:38 hour:918
+
+13:32:14	[info]	273.9540475102014, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:38 hour:919
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:52 hour:1252
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:52 hour:1253
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:52 hour:1254
+
+13:32:14	[info]	326.44215302822516, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:52 hour:1255
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	493.72682480824926, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:57 hour:1375
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:61 hour:1470
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	512.6902693825031, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:61 hour:1471
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:72 hour:1732
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7109
+
+13:32:14	[info]	9.143089348300908, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7110
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	12.868051675386464, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:300 hour:7206
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:309 hour:7420
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:309 hour:7421
+
+13:32:14	[info]	8.127190531823029, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:309 hour:7422
+
+13:32:14	[info]	671.5091176918779, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:309 hour:7423
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	401.9572983864144, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:312 hour:7496
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:313 hour:7517
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	14.222583430690305, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:313 hour:7518
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:315 hour:7565
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	5.0794940823893935, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:315 hour:7566
+
+13:32:14	[info]	708.0814750850816, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:315 hour:7567
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 1355.3755335449828, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:317 hour:7629
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:317 hour:7630
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:317 hour:7631
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7632
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7633
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7634
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7635
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7636
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7637
+
+13:32:14	[info]	23.36567277899121, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7638
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	185.570850476626, 2151.2023615630274, 6716.297325600755, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:319 hour:7673
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:319 hour:7678
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:319 hour:7679
+
+13:32:14	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity10000_PRR_2000_95.png
+
+13:32:14	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity20000_PRR_7000_0.png
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:1 hour:24
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:1 hour:25
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:1 hour:26
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:1 hour:27
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:1 hour:28
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:1 hour:29
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:1 hour:30
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:2 hour:53
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:2 hour:54
+
+13:32:14	[info]	708.7587409627337, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:2 hour:55
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:3 hour:78
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	101.251248708962, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:3 hour:79
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:72 hour:1733
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:72 hour:1734
+
+13:32:14	[info]	657.9638001388397, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:72 hour:1735
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	225.52953725808922, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:74 hour:1783
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	390.78241140515746, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:77 hour:1855
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	778.8557592997063, 2060.3382042731814, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:78 hour:1883
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:79 hour:1901
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:79 hour:1902
+
+13:32:14	[info]	566.8715395946564, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:79 hour:1903
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:80 hour:1923
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:80 hour:1924
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:80 hour:1925
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:80 hour:1926
+
+13:32:14	[info]	240.0907536276055, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:80 hour:1927
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:83 hour:1998
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	595.9939723336893, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:83 hour:1999
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:84 hour:2018
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:84 hour:2019
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:84 hour:2020
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:84 hour:2021
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:84 hour:2022
+
+13:32:14	[info]	723.3199573322499, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:84 hour:2023
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:85 hour:2046
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	706.3883103909518, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:85 hour:2047
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:88 hour:2118
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	470.36115202925805, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:88 hour:2119
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	91.43089348300911, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:93 hour:2239
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	105.31484397487348, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:93 hour:2240
+
+13:32:14	[info]	369.10990332029627, 748.0159877925421, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:93 hour:2241
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	257.0224005689035, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:99 hour:2383
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:101 hour:2429
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:101 hour:2430
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:103 hour:2472
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:103 hour:2473
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:103 hour:2474
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:103 hour:2475
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:103 hour:2476
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:131 hour:3150
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3264
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3265
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3266
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3267
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3268
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3269
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3270
+
+13:32:14	[info]	166.26877296354624, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3271
+
+13:32:14	[info]	650.8525084234946, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:136 hour:3272
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:138 hour:3313
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:138 hour:3314
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:138 hour:3315
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:138 hour:3316
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:138 hour:3317
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:138 hour:3318
+
+13:32:14	[info]	63.66299249928041, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:138 hour:3319
+
+13:32:14	[info]	600.0575675996005, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:138 hour:3320
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:139 hour:3341
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:139 hour:3342
+
+13:32:14	[info]	265.4882240395525, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:139 hour:3343
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	1.0158988164778786, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:145 hour:3486
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:148 hour:3556
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:148 hour:3557
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:148 hour:3558
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:149 hour:3581
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:149 hour:3582
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:151 hour:3626
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:151 hour:3627
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:151 hour:3628
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:151 hour:3629
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:151 hour:3630
+
+13:32:14	[info]	633.5822285433707, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:151 hour:3631
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:155 hour:3723
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:155 hour:3724
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:155 hour:3725
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:155 hour:3726
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	356.2418516449096, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:158 hour:3799
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:158 hour:3814
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:158 hour:3815
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:103 hour:2477
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:103 hour:2478
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	148.65986014459634, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:105 hour:2527
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	602.7666311102083, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:105 hour:2528
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:106 hour:2550
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	568.5647042887864, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:106 hour:2551
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:107 hour:2571
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:107 hour:2572
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:107 hour:2573
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:107 hour:2574
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:109 hour:2622
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	423.62980647127546, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:109 hour:2623
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:111 hour:2669
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	14.561216369516261, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:111 hour:2670
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:112 hour:2688
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:112 hour:2689
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:112 hour:2690
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:112 hour:2691
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:112 hour:2692
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:112 hour:2693
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:112 hour:2694
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:114 hour:2738
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:114 hour:2739
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:114 hour:2740
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:114 hour:2741
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:114 hour:2742
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:118 hour:2835
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:118 hour:2836
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:118 hour:2837
+
+13:32:14	[info]	26.07473628959889, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:118 hour:2838
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:128 hour:3076
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:128 hour:3077
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:128 hour:3078
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:129 hour:3098
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:129 hour:3099
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:129 hour:3100
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:129 hour:3101
+
+13:32:14	[info]	1.6931646941297982, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:129 hour:3102
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	1.0158988164778786, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:130 hour:3126
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:159 hour:3816
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:159 hour:3817
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:159 hour:3818
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:159 hour:3819
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:159 hour:3820
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:159 hour:3821
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:159 hour:3822
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:164 hour:3941
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:164 hour:3942
+
+13:32:14	[info]	712.4837032898191, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:164 hour:3943
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	120.21469328321574, 743.6792970262437, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:166 hour:3994
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	329.15121653883295, 2060.3382042731814, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:166 hour:3995
+
+13:32:14	[info]	596.3326052725148, 807.054947650221, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:166 hour:3996
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 1355.3755335449828, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:166 hour:4005
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:166 hour:4006
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:166 hour:4007
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:167 hour:4008
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:167 hour:4009
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:167 hour:4010
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:167 hour:4011
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:167 hour:4012
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:167 hour:4013
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:167 hour:4014
+
+13:32:14	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:167 hour:4015
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:170 hour:4086
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:173 hour:4175
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:174 hour:4176
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:174 hour:4177
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:174 hour:4178
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:174 hour:4179
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:174 hour:4180
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:174 hour:4181
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:174 hour:4182
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	51.810839640371825, 748.0159877925421, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:175 hour:4209
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 1355.3755335449828, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:182 hour:4389
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:182 hour:4390
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:182 hour:4391
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:183 hour:4392
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:183 hour:4393
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:183 hour:4394
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:183 hour:4395
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:183 hour:4396
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:183 hour:4397
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:183 hour:4398
+
+13:32:14	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:183 hour:4399
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:184 hour:4418
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:184 hour:4419
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:184 hour:4420
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:184 hour:4421
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:184 hour:4422
+
+13:32:14	[info]	157.46431655407127, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:184 hour:4423
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:188 hour:4514
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:188 hour:4515
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:188 hour:4516
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:188 hour:4517
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:188 hour:4518
+
+13:32:14	[info]	58.92213135571697, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:188 hour:4519
+
+13:32:14	[info]	450.04317569970056, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:188 hour:4520
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:190 hour:4583
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:191 hour:4584
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:191 hour:4585
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:191 hour:4586
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:191 hour:4587
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:191 hour:4588
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:191 hour:4589
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:191 hour:4590
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:199 hour:4781
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:199 hour:4782
+
+13:32:14	[info]	344.0510658471751, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:199 hour:4783
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:201 hour:4826
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:201 hour:4827
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:201 hour:4828
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:201 hour:4829
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:201 hour:4830
+
+13:32:14	[info]	493.7268248082493, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:201 hour:4831
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	153.06208834933383, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:202 hour:4856
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	183.53905284367022, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:210 hour:5048
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	16.931646941297977, 748.0159877925421, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:210 hour:5049
+
+13:32:14	[info]	77.88557592997076, 743.6792970262437, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:210 hour:5050
+
+13:32:14	[info]	919.7270618513066, 2060.3382042731814, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:210 hour:5051
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:211 hour:5065
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:211 hour:5066
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:211 hour:5067
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:211 hour:5068
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:211 hour:5069
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:211 hour:5070
+
+13:32:14	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:211 hour:5071
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:213 hour:5116
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:213 hour:5117
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:213 hour:5118
+
+13:32:14	[info]	226.54543607456708, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:213 hour:5119
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:223 hour:5358
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	471.715683784562, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:223 hour:5359
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:229 hour:5496
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:229 hour:5497
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:229 hour:5498
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:229 hour:5499
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:229 hour:5500
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:229 hour:5501
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:229 hour:5502
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:234 hour:5621
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:234 hour:5622
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:235 hour:5645
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:235 hour:5646
+
+13:32:14	[info]	549.2626267757068, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:235 hour:5647
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	112.42613569021864, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:247 hour:5936
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	598.7030358442968, 748.0159877925421, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:247 hour:5937
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:249 hour:5976
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:249 hour:5977
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:249 hour:5978
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:249 hour:5979
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:249 hour:5980
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:249 hour:5981
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:249 hour:5982
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:264 hour:6358
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:264 hour:6359
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:265 hour:6360
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:265 hour:6361
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:265 hour:6362
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:265 hour:6363
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:265 hour:6364
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:265 hour:6365
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:265 hour:6366
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:266 hour:6384
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:266 hour:6385
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:266 hour:6386
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:266 hour:6387
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:266 hour:6388
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:266 hour:6389
+
+13:32:14	[info]	1.6931646941297982, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:266 hour:6390
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:267 hour:6413
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:267 hour:6414
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:270 hour:6482
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:270 hour:6483
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:270 hour:6484
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:270 hour:6485
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:270 hour:6486
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	2.031797632955757, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:284 hour:6822
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	690.4725622661321, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:284 hour:6823
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	1.6931646941297982, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:292 hour:7014
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:294 hour:7062
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	395.86190548754695, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:294 hour:7063
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:295 hour:7102
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:295 hour:7103
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7104
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7105
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7106
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7107
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7108
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7109
+
+13:32:14	[info]	9.143089348300908, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:296 hour:7110
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	12.868051675386464, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:300 hour:7206
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:309 hour:7420
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:309 hour:7421
+
+13:32:14	[info]	8.127190531823029, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:309 hour:7422
+
+13:32:14	[info]	671.5091176918779, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:309 hour:7423
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	401.9572983864144, 667.5145870684872, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:312 hour:7496
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:313 hour:7517
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	14.222583430690305, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:313 hour:7518
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:315 hour:7565
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	5.0794940823893935, 396.2302279945563, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:315 hour:7566
+
+13:32:14	[info]	708.0814750850816, 724.7998015125778, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:315 hour:7567
+
+13:32:14	[info]	count_reset cause pull is zero
+
+13:32:14	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:317 hour:7630
+
+13:32:14	[info]	count_increase, set status to false
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:317 hour:7631
+
+13:32:14	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7632
+
+13:32:14	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:32:14	[info]	No avaliable energy on day:318 hour:7633
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:318 hour:7634
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:318 hour:7635
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:318 hour:7636
+
+13:36:58	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:318 hour:7637
+
+13:36:58	[info]	23.36567277899121, 396.2302279945563, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:318 hour:7638
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:319 hour:7678
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:319 hour:7679
+
+13:36:58	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity10000_PRR_7000_87.png
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4010
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4011
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4012
+
+13:36:58	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4013
+
+13:36:58	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4014
+
+13:36:58	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4015
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity15000_PRR_7000_1.png
+
+13:36:58	[info]	166.26877296354624, 724.7998015125778, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:136 hour:3271
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	650.8525084234946, 667.5145870684872, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:136 hour:3272
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	63.66299249928041, 724.7998015125778, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:138 hour:3319
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	600.0575675996005, 667.5145870684872, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:138 hour:3320
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:159 hour:3821
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:159 hour:3822
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	329.15121653883295, 2060.3382042731814, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:166 hour:3995
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	596.3326052725148, 807.054947650221, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:166 hour:3996
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	0.0, 1355.3755335449828, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:166 hour:4005
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:166 hour:4006
+
+13:36:58	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:166 hour:4007
+
+13:36:58	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4008
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4009
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4010
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4011
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4012
+
+13:36:58	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4013
+
+13:36:58	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4014
+
+13:36:58	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:167 hour:4015
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:183 hour:4393
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:183 hour:4394
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:183 hour:4395
+
+13:36:58	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:183 hour:4396
+
+13:36:58	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:183 hour:4397
+
+13:36:58	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:183 hour:4398
+
+13:36:58	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:183 hour:4399
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	450.04317569970056, 667.5145870684872, 0, note: battery is later for one
+
+13:36:58	[info]	No avaliable energy on day:188 hour:4520
+
+13:36:58	[info]	count_increase, set status to false
+
+13:36:58	[info]	count_reset cause pull is zero
+
+13:36:58	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:191 hour:4590
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	919.7270618513066, 2060.3382042731814, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:210 hour:5051
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5065
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5066
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5067
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5068
+
+13:37:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5069
+
+13:37:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5070
+
+13:37:10	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5071
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:265 hour:6365
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:265 hour:6366
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:296 hour:7109
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	9.143089348300908, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:296 hour:7110
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:318 hour:7636
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:318 hour:7637
+
+13:37:10	[info]	23.36567277899121, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:318 hour:7638
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity12000_PRR_7000_13.png
+
+13:37:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:166 hour:4007
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4008
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4009
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4010
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4011
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4012
+
+13:37:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4013
+
+13:37:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4014
+
+13:37:10	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4015
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5070
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:211 hour:5071
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity14000_PRR_7000_2.png
+
+13:37:10	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:166 hour:4006
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:166 hour:4007
+
+13:37:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4008
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4009
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4010
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4011
+
+13:37:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4012
+
+13:37:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4013
+
+13:37:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4014
+
+13:37:10	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:167 hour:4015
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:183 hour:4397
+
+13:37:10	[info]	count_increase, set status to false
+
+13:37:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:183 hour:4398
+
+13:37:10	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:37:10	[info]	No avaliable energy on day:183 hour:4399
+
+13:37:10	[info]	count_reset cause pull is zero
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5067
+
+13:37:30	[info]	count_increase, set status to false
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5068
+
+13:37:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5069
+
+13:37:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5070
+
+13:37:30	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5071
+
+13:37:30	[info]	count_reset cause pull is zero
+
+13:37:30	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13000_PRR_7000_3.png
+
+13:37:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:166 hour:4006
+
+13:37:30	[info]	count_increase, set status to false
+
+13:37:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:166 hour:4007
+
+13:37:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4008
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4009
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4010
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4011
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4012
+
+13:37:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4013
+
+13:37:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4014
+
+13:37:30	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4015
+
+13:37:30	[info]	count_reset cause pull is zero
+
+13:37:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:183 hour:4398
+
+13:37:30	[info]	count_increase, set status to false
+
+13:37:30	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:183 hour:4399
+
+13:37:30	[info]	count_reset cause pull is zero
+
+13:37:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5069
+
+13:37:30	[info]	count_increase, set status to false
+
+13:37:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5070
+
+13:37:30	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5071
+
+13:37:30	[info]	count_reset cause pull is zero
+
+13:37:30	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13500_PRR_7000_3.png
+
+13:37:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:166 hour:4006
+
+13:37:30	[info]	count_increase, set status to false
+
+13:37:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:166 hour:4007
+
+13:37:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4008
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4009
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4010
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4011
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4012
+
+13:37:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4013
+
+13:37:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4014
+
+13:37:30	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4015
+
+13:37:30	[info]	count_reset cause pull is zero
+
+13:37:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:183 hour:4398
+
+13:37:30	[info]	count_increase, set status to false
+
+13:37:30	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:183 hour:4399
+
+13:37:30	[info]	count_reset cause pull is zero
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5068
+
+13:37:30	[info]	count_increase, set status to false
+
+13:37:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5069
+
+13:37:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5070
+
+13:37:30	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:211 hour:5071
+
+13:37:30	[info]	count_reset cause pull is zero
+
+13:37:30	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13300_PRR_7000_3.png
+
+13:37:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:166 hour:4006
+
+13:37:30	[info]	count_increase, set status to false
+
+13:37:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:166 hour:4007
+
+13:37:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4008
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4009
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:30	[info]	No avaliable energy on day:167 hour:4010
+
+13:37:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4011
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4012
+
+13:37:50	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4013
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4014
+
+13:37:50	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4015
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:183 hour:4398
+
+13:37:50	[info]	count_increase, set status to false
+
+13:37:50	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:183 hour:4399
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5069
+
+13:37:50	[info]	count_increase, set status to false
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5070
+
+13:37:50	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5071
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13400_PRR_7000_3.png
+
+13:37:50	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:166 hour:4006
+
+13:37:50	[info]	count_increase, set status to false
+
+13:37:50	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:166 hour:4007
+
+13:37:50	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4008
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4009
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4010
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4011
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4012
+
+13:37:50	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4013
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4014
+
+13:37:50	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4015
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:183 hour:4398
+
+13:37:50	[info]	count_increase, set status to false
+
+13:37:50	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:183 hour:4399
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5069
+
+13:37:50	[info]	count_increase, set status to false
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5070
+
+13:37:50	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5071
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13350_PRR_7000_3.png
+
+13:37:50	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:166 hour:4006
+
+13:37:50	[info]	count_increase, set status to false
+
+13:37:50	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:166 hour:4007
+
+13:37:50	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4008
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4009
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4010
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4011
+
+13:37:50	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4012
+
+13:37:50	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4013
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4014
+
+13:37:50	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:167 hour:4015
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:183 hour:4398
+
+13:37:50	[info]	count_increase, set status to false
+
+13:37:50	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:183 hour:4399
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5069
+
+13:37:50	[info]	count_increase, set status to false
+
+13:37:50	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5070
+
+13:37:50	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:211 hour:5071
+
+13:37:50	[info]	count_reset cause pull is zero
+
+13:37:50	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13390_PRR_7000_3.png
+
+13:37:50	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:37:50	[info]	No avaliable energy on day:166 hour:4006
+
+13:38:10	[info]	count_increase, set status to false
+
+13:38:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:166 hour:4007
+
+13:38:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4008
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4009
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4010
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4011
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4012
+
+13:38:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4013
+
+13:38:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4014
+
+13:38:10	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4015
+
+13:38:10	[info]	count_reset cause pull is zero
+
+13:38:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:183 hour:4398
+
+13:38:10	[info]	count_increase, set status to false
+
+13:38:10	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:183 hour:4399
+
+13:38:10	[info]	count_reset cause pull is zero
+
+13:38:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:211 hour:5069
+
+13:38:10	[info]	count_increase, set status to false
+
+13:38:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:211 hour:5070
+
+13:38:10	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:211 hour:5071
+
+13:38:10	[info]	count_reset cause pull is zero
+
+13:38:10	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13370_PRR_7000_3.png
+
+13:38:10	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:166 hour:4006
+
+13:38:10	[info]	count_increase, set status to false
+
+13:38:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:166 hour:4007
+
+13:38:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4008
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4009
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4010
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4011
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4012
+
+13:38:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4013
+
+13:38:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4014
+
+13:38:10	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4015
+
+13:38:10	[info]	count_reset cause pull is zero
+
+13:38:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:183 hour:4398
+
+13:38:10	[info]	count_increase, set status to false
+
+13:38:10	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:183 hour:4399
+
+13:38:10	[info]	count_reset cause pull is zero
+
+13:38:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:211 hour:5069
+
+13:38:10	[info]	count_increase, set status to false
+
+13:38:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:211 hour:5070
+
+13:38:10	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:211 hour:5071
+
+13:38:10	[info]	count_reset cause pull is zero
+
+13:38:10	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13380_PRR_7000_3.png
+
+13:38:10	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:166 hour:4006
+
+13:38:10	[info]	count_increase, set status to false
+
+13:38:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:166 hour:4007
+
+13:38:10	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4008
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4009
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4010
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4011
+
+13:38:10	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4012
+
+13:38:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4013
+
+13:38:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4014
+
+13:38:10	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:167 hour:4015
+
+13:38:10	[info]	count_reset cause pull is zero
+
+13:38:10	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:183 hour:4398
+
+13:38:10	[info]	count_increase, set status to false
+
+13:38:10	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:38:10	[info]	No avaliable energy on day:183 hour:4399
+
+13:38:10	[info]	count_reset cause pull is zero
+
+13:38:10	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5069
+
+13:38:30	[info]	count_increase, set status to false
+
+13:38:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5070
+
+13:38:30	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5071
+
+13:38:30	[info]	count_reset cause pull is zero
+
+13:38:30	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13375_PRR_7000_3.png
+
+13:38:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:166 hour:4006
+
+13:38:30	[info]	count_increase, set status to false
+
+13:38:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:166 hour:4007
+
+13:38:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4008
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4009
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4010
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4011
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4012
+
+13:38:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4013
+
+13:38:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4014
+
+13:38:30	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4015
+
+13:38:30	[info]	count_reset cause pull is zero
+
+13:38:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:183 hour:4398
+
+13:38:30	[info]	count_increase, set status to false
+
+13:38:30	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:183 hour:4399
+
+13:38:30	[info]	count_reset cause pull is zero
+
+13:38:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5069
+
+13:38:30	[info]	count_increase, set status to false
+
+13:38:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5070
+
+13:38:30	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5071
+
+13:38:30	[info]	count_reset cause pull is zero
+
+13:38:30	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13378_PRR_7000_3.png
+
+13:38:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:166 hour:4006
+
+13:38:30	[info]	count_increase, set status to false
+
+13:38:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:166 hour:4007
+
+13:38:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4008
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4009
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4010
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4011
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4012
+
+13:38:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4013
+
+13:38:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4014
+
+13:38:30	[info]	457.4931003538717, 724.7998015125778, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4015
+
+13:38:30	[info]	count_reset cause pull is zero
+
+13:38:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:183 hour:4398
+
+13:38:30	[info]	count_increase, set status to false
+
+13:38:30	[info]	257.69966644655534, 724.7998015125778, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:183 hour:4399
+
+13:38:30	[info]	count_reset cause pull is zero
+
+13:38:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5069
+
+13:38:30	[info]	count_increase, set status to false
+
+13:38:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5070
+
+13:38:30	[info]	588.8826806183438, 724.7998015125778, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:211 hour:5071
+
+13:38:30	[info]	count_reset cause pull is zero
+
+13:38:30	[info]	Save plot to /Users/lishuyu/PycharmProjects/solarPowerEstimate/plot/Electric_power_capacity_plots/Electric_power_capacity13376_PRR_7000_3.png
+
+13:38:30	[info]	0.0, 1014.9634098600977, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:166 hour:4006
+
+13:38:30	[info]	count_increase, set status to false
+
+13:38:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:166 hour:4007
+
+13:38:30	[info]	0.0, 389.42327806626577, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4008
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4009
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4010
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4011
+
+13:38:30	[info]	0.0, 200.0, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4012
+
+13:38:30	[info]	0.0, 295.59527860099183, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4013
+
+13:38:30	[info]	0.0, 396.2302279945563, 0, note: battery is later for one
+
+13:38:30	[info]	No avaliable energy on day:167 hour:4014
+
