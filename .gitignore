@@ -2,3 +2,9 @@ iter.csv
 battery.log
 differenceSolarConsume.log
 *.png
+*.log
+batteryChoiceEvaluation.log
+battery_evaluate_ouput.csv
+differenceSolarConsume.log
+battery.log
+differenceSolarConsume.log
