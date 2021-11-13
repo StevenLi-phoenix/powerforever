@@ -17,8 +17,8 @@ class battery():
         self.log_main = True
         self.write_to_log = False
         if log: print(
-            f"Battery set complied: max_capactity = {self.capacity}\nmax_recharge_rate:{self.max_recharge_rate}, eff{efficiency}, cost{cost}")
-        self.log.write(f"Battery set complied: max_capactity = {self.capacity}, max_recharge_rate:{self.max_recharge_rate}, efficiency:{efficiency},cost:{cost}")
+            f"Battery set complied: max_capactity = {self.capacity}\nmax_recharge_rate:{self.max_recharge_rate}, eff{efficiency}")
+        self.log.write(f"Battery set complied: max_capactity = {self.capacity}, max_recharge_rate:{self.max_recharge_rate}, efficiency:{efficiency}")
 
     def discharge(self, discharge_target, log=False):
         # discharge_target_real: 真实的电池放电，但是target减少self.efficiency倍

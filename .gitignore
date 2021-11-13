@@ -6,3 +6,10 @@ differenceSolarConsume.log
 batteryChoiceEvaluation.log
 battery_evaluate_ouput.csv
 battery.log
+battery.log
+differenceSolarConsume.log
+.gitignore
+battery.log
+2.csv
+battery.py
+differenceSolarConsume.log

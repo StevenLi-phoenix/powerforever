@@ -2,7 +2,7 @@ import time, sys, threading
 
 
 class battery():
-    def __init__(self, max_recharge_rate, max_capactity, efficiency, cost, log=False):
+    def __init__(self, max_recharge_rate, max_capactity, efficiency, cost=0, log=False):
         """
         battery config and recharge rate
         :param max_recharge_rate: float max recharge rate in w
