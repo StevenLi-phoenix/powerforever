@@ -1,6 +1,5 @@
 # solarPowerEstimate
 
-
 ### <center>Team control number</center>
 
 # <center>11691</center>
@@ -40,10 +39,6 @@ Finally, we further investigated a more environmentally friendly emerging techno
     matplotlib.pyplot
 
 
-## Battery component：
-battery.py
-batteryModel.py
-
 ## Main File:
 
 [analysisDifferatialSolarAndPowerSupply.ipynb](analysisDifferatialSolarAndPowerSupply.ipynb): Minum capacity in average situation.
@@ -78,6 +73,9 @@ batteryModel.py
 
 [solarIteration.ipynb](solarIteration.ipynb):Battery type arrangement and combination, output CSV arrangement, 1/1-10/10 full sort, abandon.
 
+## Battery component：
+[battery.py](battery.py)
+[batteryModel.py](batteryModel.py)
 
 ## Main folder
 
