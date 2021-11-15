@@ -1,90 +1,95 @@
 # solarPowerEstimate
-author: 李树雨
+
+
+### <center>Team control number</center>
+
+# <center>11691</center>
+
+### <center>Problem Chosen</center>
+
+# <center>A</center>
+
+### <center>2021 HiMCM Program Part</center>
+
+author: Stevenli
 
 time: 2021.11.7
 
-revise: 2021.11.13
+revise: 2021.11.15
 
-<img src="85402455_p0.jpeg" >
-# 说明文档
+### Abstract:
+#### Power forever, Electricity wherever
+With the continuous development of photovoltaic power generation technology, the construction of off- grid photovoltaic microgrid systems for households in remote areas has become an extremely attractive solution. However, photovoltaic power generation is subject to certain randomness and intermittentness due to meteorological factors. In order to improve the power supply reliability of photovoltaic off-grid homes, a reasonable configuration of energy storage systems is essential.
+
+In order to solve the above problems, we mainly adopt the following steps:
+First, we establish a local photovoltaic output model by analyzing factors such as the user's location, meteorological conditions, and residential area. Meanwhile, we establish a user's household load power consumption model by analyzing the individual user's household load type, power, use time, and use period. Considering that the model maintains a certain generality, we evaluate the user's household load power model by introducing a normal distribution, and analyze the influence of different seasons and different time periods on the user's household power load model.
+
+Secondly, we determine the number of annual power outages of users as the primary technical indicator of power supply reliability. By combining the photovoltaic output model and the household electric load model, the minimum capacity and power of the energy storage battery system that the household needs to configure within a given range of power outages are solved.
+
+Further, taking the minimum capacity and power of the storage battery system and the cost acceptable to the user as constraints, we construct an storage battery library and select the main technical indicators that users are more concerned about, including cost per kilowatt-hour, power density, energy density, price, efficiency and life span, etc., and comprehensively consider setting weighting factors according to the actual needs of users, establish a comprehensive system evaluation function, and obtain the optimal configuration of storage batteries: when the user's cost is constrained to less than 8,000 US dollars, no matter how the energy storage battery is configured, it cannot guarantee that the number of power outages in a year is less than 5; when the user cost increases to 10,000 US dollars, one can be configured A Tesla Powerwall+ battery and a FREEDOH Battery to make the number of power outages for users less than 2 times per year; when the user's cost increases to 15,000 US dollars, you can configure a RIYIFER Battery, an Ultimate Battery and a Tesla Powerwall+ battery to keep users being powered for the whole year.
+
+Finally, we further investigated a more environmentally friendly emerging technology-cement battery. Compared with chemical batteries, cement energy storage batteries use fewer precious metals, and can be produced and used on a larger scale, which is more in line with the development direction of large-scale energy storage battery applications. Although the technology is still immature, but its environmental protection, large-scale construction and other characteristics meet the needs of environmental protection and future sustainable development, so it has great development potential.
+
+<h4>Keywords:</h4> Optimized design of ESS, power supply reliability, evaluation function, customization.
+
+### [A letter to Off-Grid Photovoltaic Families](letter.md)
 
 ## Requirements:
     pandas
     numpy
     matplotlib.pyplot
-### optional:
-    PyEMD
 
 
-## 写好的类
+## Battery component：
 battery.py
 batteryModel.py
 
-## 主要文件
+## Main File:
 
-[analysisDifferatialSolarAndPowerSupply.ipynb](analysisDifferatialSolarAndPowerSupply.ipynb): 计算在平均条件下（ps：春季电量消耗下）最小电池容量
+[analysisDifferatialSolarAndPowerSupply.ipynb](analysisDifferatialSolarAndPowerSupply.ipynb): Minum capacity in average situation.
 
-[batterAnalysis.ipynb](batterAnalysis.ipynb): 空单元格（我：？？？
+[batterAnalysis.ipynb](batterAnalysis.ipynb): Abandon
 
-[batterChoiceEvaluation.py](batterChoiceEvaluation.py): 最终所有可能的电池组合枚举输出，最后版本
+[batterChoiceEvaluation.py](batterChoiceEvaluation.py): Final version of enumeration result
 
-[battery.py](battery.py): 电池的类，第一代，不包含名字价格等
+[battery.py](battery.py): first version of battery component.
 
-[batteryChoiceEvaluation.ipynb](batteryChoiceEvaluation.ipynb):同[batterChoiceEvaluation.py](batterChoiceEvaluation.py)， [它](batterChoiceEvaluation.py)的jupyter notebook版本
+[batteryChoiceEvaluation.ipynb](batteryChoiceEvaluation.ipynb):same as [batterChoiceEvaluation.py](batterChoiceEvaluation.py): jupyter version of [batterChoiceEvaluation.py](batterChoiceEvaluation.py).
 
-[BatteryChoiceFinal.ipynb](BatteryChoiceFinal.ipynb):枚举后统计并分析，输出电池选择最终版本
+[BatteryChoiceFinal.ipynb](BatteryChoiceFinal.ipynb):Enumeration statistics and analysis, output battery selection final version.
 
-[batteryModel.py](batteryModel.py):[battery.py](battery.py)电池的类，第二代，迭代版本
+[batteryModel.py](batteryModel.py):Improved version of [battery.py](battery.py).
 
-[dailyElectricEstimate.ipynb](dailyElectricEstimate.ipynb):每日电量估计，并输出npy文档
+[dailyElectricEstimate.ipynb](dailyElectricEstimate.ipynb):Daily power estimate and output NPY document.
 
-[differenceSolarConsume.py](differenceSolarConsume.py):电池最大电量的V1版本
+[differenceSolarConsume.py](differenceSolarConsume.py):Estimate the maximum and minimum charge of the battery V1 version.
 
-[flowChart.ipynb](flowChart.ipynb):流程图，弃用
+[flowChart.ipynb](flowChart.ipynb):flow chart, abandon.
 
-[MouthlyAnalysis.ipynb](MouthlyAnalysis.ipynb):每月的电量消耗和电量产生对比图
+[MouthlyAnalysis.ipynb](MouthlyAnalysis.ipynb):Monthly electricity consumption and electricity generation comparison chart
 
-[progress_analysis-probability_base.ipynb](progress_analysis-probability_base.ipynb):电池最大电量的V2版本的概率充电版
+[progress_analysis-probability_base.ipynb](progress_analysis-probability_base.ipynb):Second version of maximum battery estimation based on probability data
 
-[progress_analysis.ipynb](progress_analysis.ipynb):电池最大电量的V2版本
+[progress_analysis.ipynb](progress_analysis.ipynb):Second version of maximum battery estimation
 
-[read_data_try.ipynb](read_data_try.ipynb):尝试读取数据，弃用，由[BatteryChoiceFinal.ipynb](BatteryChoiceFinal.ipynb)替代
+[read_data_try.ipynb](read_data_try.ipynb):attemp reading data, use [BatteryChoiceFinal.ipynb](BatteryChoiceFinal.ipynb) instead.
 
-[solarDataAnalysis.ipynb](solarDataAnalysis.ipynb):每日及其他时间段的图片生成
+[solarDataAnalysis.ipynb](solarDataAnalysis.ipynb):Daily and other time frame generation
 
-[solarIteration.ipynb](solarIteration.ipynb):电池类型排列组合，输出csv排列，1/1 - 10/10全排序
+[solarIteration.ipynb](solarIteration.ipynb):Battery type arrangement and combination, output CSV arrangement, 1/1-10/10 full sort, abandon.
 
 
-## 主要文件夹
+## Main folder
 
-[npy](./npy/)： 所有npy文档，imfs弃用
+[npy](./npy/): All NPY documents, abandon imfs.
 
-[plot](./plot/)：所有绘图（基本上，部分dpi需要重新生成
+[plot](./plot/): All picture output, Some images need to be output at higher DPI
 
-### plot 图片文件说明
-[autumn24](plot/autumn24.png)：秋季24h的电量消耗量，其他季节同上说明
+[py](./py/): Convert All *.ipynb files to *.py files
 
-[boxplotEachseason](plot/boxplotEachseason.png)：每季度的能量使用时间bixplot
+[other](./other/): Preparation and other reference stuff
 
-[compareRelationship_2100](plot/compareRelationship_2100.png)：横轴最大可接受断电次数，纵轴电池容量，label：电池充电速率，其他类似的图同上说明
+--------------------------------------------
+[original version (ZH)](README_original.md)
 
-[compareRelationship](plot/compareRelationship.png)：横轴最大可接受断电次数，纵轴电池容量，label：电池充电速率
-
-[imfs_auto_1](plot/imfs_auto_1.png)：emd分解后的图，编号为轨道号
-
-[MaxPerDayPlot](plot/MaxPerDayPlot.png)：每天最大太阳能图
-
-[MaxPerhalfMouthPlot](plot/MaxPerhalfMouthPlot.png)：每月最大太阳能图
-
-[lastElectric](plot/lastElectric.png)：废弃
-
-[relationshipBetweenNopowerCountAndCap](plot/relationshipBetweenNopowerCountAndCap.png)和[relationShip](plot/relationShip.png)：同[compareRelationship_2100](plot/compareRelationship_2100.png)
-
-[SmoothedMaxPerhalfMouthPlot](plot/SmoothedMaxPerhalfMouthPlot.png):
-[MaxPerhalfMouthPlot](plot/MaxPerhalfMouthPlot.png)的平滑版本
-
-[SolarRadiationRankingTable](plot/SolarRadiationRankingTable.png)和[SortedOfMaxPerHourPlot](plot/SortedOfMaxPerHourPlot.png)：[MaxPerhalfMouthPlot](plot/MaxPerhalfMouthPlot.png)及其他的平滑版本
-
-[plot/Electric_decline_plots](plot/Electric_decline_plots): 文件夹下的所有内容为不同阶段的没电的最后24h
-
-[plot/Electric_power_capacity_plots](plot/Electric_power_capacity_plots):文件夹下的所有内容为概率电量消耗下的不同阶段的没电的最后24h
+--------------------------------------------
