@@ -75,6 +75,7 @@ Finally, we further investigated a more environmentally friendly emerging techno
 
 ## Battery component：
 [battery.py](battery.py)
+
 [batteryModel.py](batteryModel.py)
 
 ## Main folder
